@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "FAKE",
+    "description": "TEST",
+    "language_code": "Ar",
+    "download_url": "",
+    "icon": "",
+    "addon_type_id": 0,
+    "addon_type": "Series",
+    "build": 1,
+    "author": "",
+    "author_email": "",
+    "Anakib_version": 1
+  },
+  {
+    "id": 3,
+    "name": "FAKE",
+    "description": "Somethings",
+    "language_code": "AR",
+    "download_url": "",
+    "icon": "",
+    "addon_type_id": 1,
+    "addon_type": "MOVIES",
+    "build": 1,
+    "author": "",
+    "author_email": "",
+    "Anakib_version": 1
+  }
+]
