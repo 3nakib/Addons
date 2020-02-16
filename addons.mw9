@@ -11,7 +11,7 @@
     "build": 1,
     "author": "",
     "author_email": "",
-    "Anakib_version": 1
+    "anakib_version": 1
   },
   {
     "id": 3,
@@ -25,6 +25,6 @@
     "build": 1,
     "author": "",
     "author_email": "",
-    "Anakib_version": 1
+    "anakib_version": 1
   }
 ]
