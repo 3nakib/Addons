@@ -3,7 +3,7 @@
     "id": 1,
     "name": "FAKE",
     "description": "TEST",
-    "language_code": "Ar",
+    "language_code": "AR",
     "download_url": "",
     "icon": "",
     "addon_type_id": 0,
@@ -11,6 +11,7 @@
     "build": 1,
     "author": "",
     "author_email": "",
+    "supported_services": "real-debrid",
     "anakib_version": 1
   },
   {
@@ -25,6 +26,7 @@
     "build": 1,
     "author": "",
     "author_email": "",
+    "supported_services": null,
     "anakib_version": 1
   }
 ]
