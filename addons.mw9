@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "FAKE",
-    "description": "TEST",
-    "language_code": "AR",
+    "name": "مسلسلاتي",
+    "description": "2/22/2020\nالنص هنا مجرد نص تلقائي من اجل توضيح الشكل النهائي للتصميم",
+    "language_code": "عربي",
     "download_url": "",
     "icon": "",
     "addon_type_id": 0,
@@ -11,14 +11,14 @@
     "build": 1,
     "author": "",
     "author_email": "",
-    "supported_services": "real-debrid",
+    "supported_services": "real-debrid.com,example.com",
     "anakib_version": 1
   },
   {
     "id": 3,
-    "name": "FAKE",
-    "description": "Somethings",
-    "language_code": "AR",
+    "name": "افلامي",
+    "description": "2/22/2020\nالنص هنا مجرد نص تلقائي من اجل توضيح الشكل النهائي للتصميم",
+    "language_code": "عربي",
     "download_url": "",
     "icon": "",
     "addon_type_id": 1,
